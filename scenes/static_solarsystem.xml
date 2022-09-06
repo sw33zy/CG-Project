@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<scene>
+    <group>
+        <color r="0.8" g="0.8" b="0.1"/>
+        <scale x="30" y="30" z="30"/>
+        <models>
+            <model file="sphere.3d"/>
+        </models>
+    </group>
+    <group>
+        <translate x="0" y="0" z="-40"/>
+        <scale x="1" y="1" z="1"/>
+        <color r="0.8" g="0.6" b="0.4"/>
+        <models>
+            <model file="sphere.3d"/>
+        </models>
+    </group>
+    <group>
+        <translate x="0" y="0" z="-50"/>
+        <scale x="2" y="2" z="2"/>
+        <color r="0.8" g="0.6" b="0.1"/>
+        <models>
+            <model file="sphere.3d"/>
+        </models>
+    </group>
+    <group>
+        <translate x="0" y="0" z="-60"/>
+        <scale x="2.2" y="2.2" z="2.2"/>
+        <color r="0.1" g="0.1" b="0.6"/>
+        <models>
+            <model file="sphere.3d"/>
+        </models>
+        <group>
+            <rotate x="0" y="1" z="0" angle="90"/>
+            <translate x="0" y="0" z="-2"/>
+            <scale x="0.5" y="0.5" z="0.5"/>
+            <color r="255" g="255" b="255"/>
+            <models>
+                <model file="sphere.3d"/>
+            </models>
+        </group>
+    </group>
+    <group>
+        <translate x="0" y="0" z="-70"/>
+        <scale x="2.0" y="2.0" z="2.0"/>
+        <color r="0.8" g="0.4" b="0.1"/>
+        <models>
+            <model file="sphere.3d"/>
+        </models>
+    </group>
+    <group>
+        <translate x="0" y="0" z="-80"/>
+        <scale x="4.5" y="4.5" z="4.5"/>
+        <color r="0.8" g="0.6" b="0.4"/>
+        <models>
+            <model file="sphere.3d"/>
+        </models>
+    </group>
+    <group>
+        <translate x="0" y="0" z="-90"/>
+        <scale x="3.7" y="3.7" z="3.7"/>
+        <color r="0.8" g="0.6" b="0.4"/>
+        <models>
+            <model file="sphere.3d"/>
+        </models>
+    </group>
+    <group>
+        <translate x="0" y="0" z="-100"/>
+        <scale x="2.6" y="2.6" z="2.6"/>
+        <color r="0.1" g="0.1" b="0.8"/>
+        <models>
+            <model file="sphere.3d"/>
+        </models>
+    </group>
+    <group>
+        <translate x="0" y="0" z="-110"/>
+        <scale x="2.2" y="2.2" z="2.2"/>
+        <color r="0.1" g="0.1" b="0.5"/>
+        <models>
+            <model file="sphere.3d"/>
+        </models>
+    </group>
+
+
+</scene>

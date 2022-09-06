@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<scene>
+    <group>	
+        <models>
+        <model file="sphere.3d"/>
+        </models>
+    </group>	
+</scene>
